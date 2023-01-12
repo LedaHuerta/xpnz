@@ -1,0 +1,1 @@
+export type TTargetValue = React.SetStateAction<string>

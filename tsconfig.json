@@ -7,6 +7,9 @@
       ],
       "@styles/*": [
         "styles/*"
+      ],
+      "@Layout/*": [
+        "components/Layout/*"
       ]
     },
     "target": "ES6",
